@@ -13,7 +13,7 @@
 
 - [NumPy](https://www.bpesquet.fr/mlkatas/tools/numpy.html)
 - [pandas](https://www.bpesquet.fr/mlkatas/tools/pandas.html)
-- [Predict housing prices](hhttps://www.bpesquet.fr/mlkatas/models/boston_housing.html)
+- [Predict housing prices](https://www.bpesquet.fr/mlkatas/models/boston_housing.html)
 - [Associate flowers with their classes](https://www.bpesquet.fr/mlkatas/models/iris.html)
 
 ## Lecture 2
