@@ -22,10 +22,10 @@
 - [Gradient Descent](https://www.bpesquet.fr/mlhandbook/fundamentals/gradient_descent.html)
 - [Performance measures](https://www.bpesquet.fr/mlhandbook/fundamentals/performance_measures.html)
 - [Artificial Neural Networks](https://www.bpesquet.fr/mlhandbook/algorithms/artificial_neural_networks.html)
-- [Keras](https://www.bpesquet.fr/mlhandbook/tools/keras.html)
 
 ## Practical 2
 
+- [Keras](https://www.bpesquet.fr/mlhandbook/tools/keras.html)
 - [Predict heart disease](https://www.bpesquet.fr/mlkatas/models/heart_disease.html)
 - [Classify fashion items](https://www.bpesquet.fr/mlkatas/models/fashion_mnist.html)
 - [Classify news](https://www.bpesquet.fr/mlkatas/models/reuters_news.html)
