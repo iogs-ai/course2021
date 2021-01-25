@@ -7,7 +7,7 @@
 ## Lecture 1
 
 - [Introduction to Machine Learning](https://www.bpesquet.fr/mlhandbook/fundamentals/introduction_to_machine_learning.html)
-- [Machine Learning in action](https://www.bpesquet.fr/mlhandbook/fundamentals/machine_learning_in_action.html)
+- [Machine Learning in action](https://www.bpesquet.fr/mlhandbook/overview/machine_learning_in_action.html)
 
 ## Practical 1
 
