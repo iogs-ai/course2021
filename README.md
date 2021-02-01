@@ -28,11 +28,11 @@
 - [Keras](https://www.bpesquet.fr/mlhandbook/tools/keras.html)
 - [Predict heart disease](https://www.bpesquet.fr/mlkatas/models/heart_disease.html)
 - [Classify fashion items](https://www.bpesquet.fr/mlkatas/models/fashion_mnist.html)
-- [Classify news](https://www.bpesquet.fr/mlkatas/models/reuters_news.html)
 
 ## Practical 3
 
-- Predict passenger survival (TBD)
+- [Classify news](https://www.bpesquet.fr/mlkatas/models/reuters_news.html)
+- [Predict passenger survival](https://www.bpesquet.fr/mlkatas/models/titanic.html)
 
 ## Lecture 3
 
